@@ -1,6 +1,10 @@
 ## Botzaris - lamarck2009
-##### FR : Ceci est mon alt 
-##### EN : This is my alt
+<p><img src="github.com/botzaris/botzaris/blob/main/assets/background.png"</p>
+##### FR : Ceci est mon alt     EN : This is my alt
+Hello and welcome to my page 
+My Name is lamarck im a 11th grade and i use old hardware
+
+Fuck CIA, Fuck Google
 <!--
 **botzaris/botzaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
