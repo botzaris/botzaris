@@ -1,6 +1,6 @@
 ## Botzaris - lamarck2009
 <p><img src="/assets/background.png"</p>
-##### FR : Ceci est mon alt     EN : This is my alt
+<p><strong>FR : Ceci est mon alt     EN : This is my alt</strong></p>
 Hello and welcome to my page 
 My Name is lamarck im a 11th grade and i use old hardware
 
